@@ -4,13 +4,11 @@
 
 @charset "utf-8";
 
-# Custom changes FCA311
-$body-color: #E5E5E5
-$background-color: #FFFFFF
-$text-color: #000000
-$link-color: #14213D
-$masthead-link-color: #E5E5E5
-
+$body-color: #E5E5E5;
+$background-color: #FFFFFF;
+$text-color: #000000;
+$link-color: #14213D;
+$masthead-link-color: #E5E5E5;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
