@@ -4,7 +4,7 @@ main:
   - title: "Techniques"
     url: /
   - title: "Nos réalisations"
-    url: /
+    url: /posts/
   - title: "Nous contacter"
     url: /contact/
   - title: "Nous recrutons"

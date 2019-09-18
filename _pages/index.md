@@ -2,6 +2,8 @@
 permalink: /
 title: "Alliance Travaux Spéciaux"
 layout: splash
+header:
+  image: /assets/images/header.png
 ---
 # Alliance Travaux Spéciaux
 
