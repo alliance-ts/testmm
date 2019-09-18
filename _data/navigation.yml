@@ -4,14 +4,14 @@ main:
   - title: "Techniques"
     url: /
   - title: "Nos réalisations"
-    url: /posts/
+    url: /realisations/
   - title: "Nous contacter"
     url: /contact/
   - title: "Nous recrutons"
     description : Rejoignez nous
     url: /recrutement/
-#  - title: "Posts"
-#    url: /posts/
+  - title: "Posts"
+    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
