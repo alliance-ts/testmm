@@ -17,16 +17,20 @@ feature_row:
     title: "Techniques"
     excerpt: "Voici les principales techniques que nous mettons en oeuvre."
     url: "/technique/"
+    btn_label: "Les techniques"
+    btn_class: "btn--primary"
   - image_path: /assets/images/chuttersnap-NMrUtSA7094-unsplash - head.jpg
     title: "Nos réalisations"
     excerpt: "Voici quelques unes de nos réalisations."
     url: "/realisation/"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
+    btn_label: "Les réalisations"
+    btn_class: "btn--primary"
   - image_path: /assets/images/rumman-amin-CQJOOBPDNxo-unsplash - head.jpg
     title: "Nous contacter"
     excerpt: "Pour un devis, pour postuler... Contactez nous"
     url: /contact/
+    btn_label: "Nous contacter"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
