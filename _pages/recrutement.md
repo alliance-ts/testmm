@@ -6,10 +6,10 @@ taxonomy: Recrutement
 entries_layout: grid
 classes: wide
 header:
-  teaser: /assets/images/pop-zebra-wp81DxKUd1E-unsplash.jpg
+  image: /assets/images/shane-mclendon-9jPJrfLTBi0-unsplash.jpg
 ---
 
-L'une de nos offre vous intéresse ou vous avez envie de nous rejoindre ?
+L'une de nos offre vous intéresse, vous avez envie de nous rejoindre ?
 
 
 Contactez nous au 06. 

@@ -1,17 +1,15 @@
 ---
 permalink: /contact/
 title: "Nous contacter"
+header:
+  image: /assets/images/rumman-amin-CQJOOBPDNxo-unsplash.jpg
 ---
 
 ## Siège social
 
-SAS Alliance Travaux Spéciaux
-
-ZA La Bedina
-
+SAS Alliance Travaux Spéciaux  
+ZA La Bedina  
 69170 VALSONNE
-
-
 
 Téléphone : 06.
 
