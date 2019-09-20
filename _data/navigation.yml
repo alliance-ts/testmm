@@ -8,7 +8,7 @@ main:
   - title: "Nous contacter"
     url: /contact/
   - title: "Nous recrutons"
-    description : Rejoignez nous
+    description : Consultez nos offres d'emploi et rejoignez-nous
     url: /recrutement/
   - title: "Posts"
     url: /posts/
