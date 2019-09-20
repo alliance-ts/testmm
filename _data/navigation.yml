@@ -1,20 +1,12 @@
 main:
-  - title: "Accueil"
-    url: /
   - title: "Techniques"
-    url: /
+    url: /technique/
   - title: "Nos réalisations"
-    url: /realisations/
+    url: /realisation/
   - title: "Nous contacter"
     url: /contact/
   - title: "Nous recrutons"
     description : Consultez nos offres d'emploi et rejoignez-nous
     url: /recrutement/
-#  - title: "Posts"
-#    url: /posts/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
   - title: "About"
     url: /about/

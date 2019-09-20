@@ -6,7 +6,7 @@ taxonomy: Recrutement
 entries_layout: grid
 classes: wide
 header:
-  image: /assets/images/shane-mclendon-9jPJrfLTBi0-unsplash.jpg
+  image: /assets/images/shane-mclendon-9jPJrfLTBi0-unsplash - head.jpg
 ---
 
 L'une de nos offre vous intéresse, vous avez envie de nous rejoindre ?

@@ -6,7 +6,7 @@ tags:
   - Offre d'emploi
   - Conducteur d'engin
 header:
-  teaser: /assets/images/luke-besley-k5l-zbRSPds-unsplash.jpg
+  teaser: /assets/images/luke-besley-k5l-zbRSPds-unsplash - head.jpg
 ---
 
 Vous etes rigoureux et motivé.

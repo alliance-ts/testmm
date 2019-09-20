@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Nous contacter"
 header:
-  image: /assets/images/rumman-amin-CQJOOBPDNxo-unsplash.jpg
+  image: /assets/images/rumman-amin-CQJOOBPDNxo-unsplash - head.jpg
 ---
 
 ## Siège social
