@@ -26,10 +26,10 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-	alt: ""
+    alt: ""
     title: "Nous contacter"
     excerpt: "Pour un devis, pour postuler... Contactez nous"
-#	url: /contact/
+#    url: /contact/
 ---
 
 {% include feature_row id="intro" type="center" %}
