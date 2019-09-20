@@ -6,7 +6,7 @@ tags:
   - Offre d'emploi
   - Chef de chantier
 header:
-  teaser: /assets/images/scott-blake-x-ghf9LjrVg-unsplash.jpg
+  teaser: /assets/images/scott-blake-x-ghf9LjrVg-unsplash - head.jpg
 ---
 
 Vous aimez le travail d'équipe, vous êtes autonome et dynamique.
