@@ -25,7 +25,7 @@ feature_row:
     url: "/realisation/"
     btn_label: "Les réalisations"
     btn_class: "btn--primary"
-  - image_path: /assets/images/rumman-amin-CQJOOBPDNxo-unsplash - head.jpg
+  - image_path: /assets/images/elmarie-van-rooyen-YnhM5qAKjIU-unsplash - head.jpg
     title: "Nous contacter"
     excerpt: "Pour un devis, pour postuler... Contactez nous"
     url: /contact/

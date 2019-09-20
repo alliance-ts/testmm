@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Nous contacter"
 header:
-  image: /assets/images/rumman-amin-CQJOOBPDNxo-unsplash - head.jpg
+  image: /assets/images/elmarie-van-rooyen-YnhM5qAKjIU-unsplash - head.jpg
 ---
 
 ## Siège social

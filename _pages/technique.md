@@ -9,4 +9,4 @@ header:
   image: /assets/images/daniel-mccullough-HtBlQdxfG9k-unsplash - head.jpg
 ---
 
-Voici les principales techniques que nous mettont en oeuvre.
+Voici les principales techniques que nous mettons en oeuvre.
