@@ -3,7 +3,7 @@ title: "Alliance Travaux Spéciaux"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#FFD200"
+  overlay_color: "#14213D"
   overlay_filter: "0.6"
   overlay_image: /assets/images/tr-davis-vM1D8W3Z6hg-unsplash - head.jpg
   actions:

@@ -22,6 +22,7 @@ github_username: username
 minimal_mistakes_skin: default
 locale: "fr-FR"
 search: true
+logo: "/assets/images/logo-88.png"
 
 # Build settings
 markdown: kramdown
