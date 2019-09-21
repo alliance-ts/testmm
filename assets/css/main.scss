@@ -13,12 +13,8 @@ $masthead-link-color: #E5E5E5;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
+// reduce footer height
 .page__footer footer {
-#    clear: both;
-#    margin-left: auto;
-#    margin-right: auto;
     margin-top: 1em;
-#    max-width: 100%;
     padding: 0 1em 1em;
 }
