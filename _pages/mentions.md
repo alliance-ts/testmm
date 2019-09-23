@@ -18,4 +18,5 @@ Nous nous engageaons à ne pas utiliser ces informations à des fins de prospect
 
 ## Propriété intellectuelle
 
-Certaines illustrations du site sont issues de photo du site Unsplash. Le nom de l'auteur de la photo originale est généralement présent dans le nom du fichier image.
+Certaines illustrations du site sont issues de photo du site Unsplash.
+Le nom de l'auteur de la photo originale est généralement présent dans le nom du fichier image.
