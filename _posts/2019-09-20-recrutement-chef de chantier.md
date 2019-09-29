@@ -20,4 +20,4 @@ Les chantiers sont situés autour de Lyon, le Leman et Annecy
 
 Remuneration selon experience
 
-Contactez nous au 06. ou par mail : recrutement@alliance-ts.fr
+Contactez nous au 06.51.22.17.90 ou par mail : [contact@alliance-ts.fr](mailto:contact@alliance-ts.fr)

@@ -4,7 +4,8 @@ title: "Mentions légales"
 ---
 
 SAS Alliance Travaux Spéciaux  
-ZA La Bedina  
+2 chemin de Chaboud  
+ZA Chaboud  
 69170 VALSONNE
 
 ## Données personnelles et utilisations

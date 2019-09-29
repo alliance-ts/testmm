@@ -3,8 +3,8 @@ main:
     url: /nous/
   - title: "Techniques"
     url: /technique/
-#  - title: "Nos réalisations"
-#    url: /realisation/
+  - title: "Nos réalisations"
+    url: /realisation/
   - title: "Nous contacter"
     url: /contact/
   - title: "Nous recrutons"

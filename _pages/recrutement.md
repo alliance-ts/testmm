@@ -12,6 +12,6 @@ header:
 L'une de nos offres vous intéresse, vous avez envie de nous rejoindre ?
 
 
-Contactez nous au 06. 
+Contactez nous au 06.51.22.17.90 
 
-ou par mail : [recrutement@alliance-ts.fr](mailto:recrutement@alliance-ts.fr)
+ou par mail : [contact@alliance-ts.fr](mailto:contact@alliance-ts.fr)

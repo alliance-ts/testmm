@@ -19,12 +19,12 @@ feature_row:
     url: "/technique/"
     btn_label: "Les techniques"
     btn_class: "btn--primary"
-#  - image_path: /assets/images/chuttersnap-NMrUtSA7094-unsplash - head.jpg
-#    title: "Nos réalisations"
-#    excerpt: "Voici quelques unes de nos réalisations."
-#    url: "/realisation/"
-#    btn_label: "Les réalisations"
-#    btn_class: "btn--primary"
+  - image_path: /assets/images/chuttersnap-NMrUtSA7094-unsplash - head.jpg
+    title: "Nos réalisations"
+    excerpt: "Voici quelques unes de nos réalisations."
+    url: "/realisation/"
+    btn_label: "Les réalisations"
+    btn_class: "btn--primary"
   - image_path: /assets/images/elmarie-van-rooyen-YnhM5qAKjIU-unsplash - head.jpg
     title: "Nous contacter"
     excerpt: "Pour un devis, pour postuler... Contactez nous"

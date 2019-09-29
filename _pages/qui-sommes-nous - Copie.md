@@ -1,13 +1,12 @@
 ---
-permalink: /nous/
+permalink: /nous-preparation/
 title: "Qui sommes-nous ?"
 ---
 
 ## Nos engagements
 
 ### La sécurité
-
-La sécurité est une priorité et une préocupation constante sur les chantiers.
+La sécurité est une préocupation constante sur les chantiers.
 
 ### La qualité, un engagement sur tous nos chantiers
 
@@ -16,10 +15,18 @@ Nous avons pour objectif d'établir des relations de long cours avec nos clients
 
 ### Responsabilité sociale
 
-Conscient de notre responsabilité sociale, nous développons une éthique rigoureuse aussi bien dans la relation client que dans la relation entre collaborateurs.
+Des actions en matière de prise en compte de l’égalité Hommes/Femmes, de l’équilibre des générations et du handicap.
+
+Formation, développement des compétences
+Nous avons comme objectif de faire progresser professionnellement et personnellement les individus.
+
+Nous développons une éthique rigoureuse aussi bien dans la relation client que dans la relation entre collaborateurs.
 Nous accordons une attention permanente au respect de cette éthique.
 Face aux difficultés, chaque collaborateur peut compter sur le soutien sans faille de tous et sur une réelle solidarité.
 
 ### Responsabilité environnementale
 
-La maîtrise des impacts environnementaux est un aspect auquel nous attachons une importance particulière.
+Maîtrise des impacts environnementaux.
+
+### L'innovation technique
+
