@@ -1,13 +1,13 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
+# Chart colors : #1F2F57 - #F39200
 ---
-
 @charset "utf-8";
 
 $body-color: #E5E5E5;
-$background-color: #FFFFFF;
+$background-color: #FEF5E4;
 $text-color: #000000;
-$link-color: #14213D;
+$link-color: #1F2F57;
 $masthead-link-color: #E5E5E5;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
