@@ -4,8 +4,8 @@ title: "Mentions légales"
 ---
 
 SAS Alliance Travaux Spéciaux  
+Z.A. Chaboud  
 2 chemin de Chaboud  
-ZA Chaboud  
 69170 VALSONNE
 
 ## Données personnelles et utilisations
