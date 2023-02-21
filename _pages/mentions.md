@@ -15,7 +15,7 @@ Vous pouvez exercer celui-ci en vous adressant à Alliance Travaux Spéciaux.
 
 Nous ne collectons aucune autre information que celles que vous nous transmettez volontairement (demande de devis, dépôt de candidatures...).
 Ces données sont alors utilisées uniquement dans le cadre de votre demande.
-Nous nous engageaons à ne pas utiliser ces informations à des fins de prospection et à ne pas transmettre votre adresse de courrier électronique à des tiers.
+Nous nous engageons à ne pas utiliser ces informations à des fins de prospection et à ne pas transmettre votre adresse de courrier électronique à des tiers.
 
 ## Propriété intellectuelle
 
